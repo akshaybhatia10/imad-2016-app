@@ -2,12 +2,10 @@
 <html>
     <head>
         <link href="/ui/style.css" rel="stylesheet" />
-        <meta name="viewport" content="width-device-width, initial-scale=1"/>
-
     </head>
     <body>
         <div class="center">
-            <img src="madi.png" class="img-medium"/>
+            <img src="/ui/madi.png" class="img-medium"/>
         </div>
         <br>
         <div class="center text-big bold">
