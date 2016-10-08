@@ -14,7 +14,7 @@ app.get('/', function (req, res) {
 
 app.get('/first',function(req,res){
     
-    res.render('new.html')
+    res.render('new.html');
     
 });
 
